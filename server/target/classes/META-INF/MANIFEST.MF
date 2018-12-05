@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: davinci-server_3.01
+Implementation-Version: 0.3.0-SNAPSHOT
+Built-By: gwx
+Implementation-Vendor-Id: edp.davinci
+Class-Path: .
+Build-Jdk: 1.8.0_60
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/davinci-parent_3.01/davinci-server_3.01
+Created-By: Maven Integration for Eclipse
+Main-Class: edp.DavinciServerApplication
+
